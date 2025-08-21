@@ -27,7 +27,7 @@ Offline System Map v2 data source: [Let's Play](//letsplay.minecrafttransitrailw
 
 [Vercel demo](//mtr-osm-v1.pages.dev)
 
-[GitHub Pages demo](//offline-system-map.github.io/server-v1/)
+[GitHub Pages demo](//mtr-offline-system-map.github.io/server-v1/)
 
 ### v2
 
@@ -35,4 +35,4 @@ Offline System Map v2 data source: [Let's Play](//letsplay.minecrafttransitrailw
 
 [Cloudflare Pages demo](//mtr-osm-v2.pages.dev)
 
-[Vercel demo](h//mtr-osm-v2.vercel.app)
+[Vercel demo](//mtr-osm-v2.vercel.app)

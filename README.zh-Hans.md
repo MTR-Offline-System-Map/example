@@ -27,7 +27,7 @@ v2: [![Netlify](http://img.shields.io/netlify/2061d03f-6bf3-4e0d-aa5f-f48949feaa
 
 [Vercel demo](//mtr-osm-v1.vercel.app/zh-Hans/)
 
-[GitHub Pages demo](//offline-system-map.github.io/server-v1/)
+[GitHub Pages demo](//mtr-offline-system-map.github.io/server-v1/)
 
 ### v2
 
